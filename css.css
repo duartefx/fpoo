@@ -1,0 +1,55 @@
+.cabecalho{
+    color:aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size:larger;
+    text-align: center;
+}
+
+.osi{
+    background-color: rgb(203, 170, 237);
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+
+}
+
+.texto {
+    font-size: large;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+.titulo{
+    font-size: larger;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(77, 231, 231);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.links{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.tabela{
+    padding: 20px;
+}
